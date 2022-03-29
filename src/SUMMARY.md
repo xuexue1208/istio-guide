@@ -59,3 +59,7 @@
   - [Pod 启动卡住: MountVolume.SetUp failed for volume "istio-token"](troubleshooting/cases/istio-token-setup-failed-for-volume-istio-token.md)
   - [trafficPolicy 不生效](troubleshooting/cases/traffic-policy-does-not-take-effect.md)
   - [使用 istio 保留端口导致 pod 启动失败](troubleshooting/cases/using-istio-reserved-port-causes-pod-start-failed.md)
+
+# 附录
+
+- [已知 BUG](appendix/bug.md)
