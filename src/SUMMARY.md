@@ -47,6 +47,7 @@
 - [排障案例](troubleshooting/cases/README.md)
   - [使用 apollo 的 java 应用启动报 404](troubleshooting/cases/apollo-on-istio.md)
   - [无法访问不带 sidecar 的 Pod](troubleshooting/cases/cannot-connect-pod-without-sidecar.md)
+  - [注入 sidecar 后 grpc 请求不响应 status code](troubleshooting/cases/grpc-without-status-code.md)
 - [VirutualService 不生效](troubleshooting/virtualservice-not-working.md)
 - [Envoy 报错: gRPC config stream closed](troubleshooting/grpc-config-stream-closed.md)
 - [熔断不生效](troubleshooting/circuit-breaking-not-work.md)
