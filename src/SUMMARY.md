@@ -63,3 +63,4 @@
 # 附录
 
 - [已知 BUG](appendix/bug.md)
+- [高频使用链接](appendix/link.md)
