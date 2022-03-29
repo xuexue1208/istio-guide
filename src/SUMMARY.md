@@ -64,3 +64,4 @@
 
 - [已知 BUG](appendix/bug.md)
 - [高频使用链接](appendix/link.md)
+- [实用脚本](appendix/shell.md)
