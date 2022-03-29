@@ -43,8 +43,8 @@
 
 # 故障排查
 
-- [排障案例]()
-  - [使用 apollo 的 java 应用启动报 404]()
+- [排障案例](troubleshooting/cases/README.md)
+  - [使用 apollo 的 java 应用启动报 404](troubleshooting/cases/apollo-on-istio.md)
 - [VirutualService 不生效](troubleshooting/virtualservice-not-working.md)
 - [Envoy 报错: gRPC config stream closed](troubleshooting/grpc-config-stream-closed.md)
 - [熔断不生效](troubleshooting/circuit-breaking-not-work.md)
