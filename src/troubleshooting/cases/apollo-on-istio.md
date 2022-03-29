@@ -14,7 +14,7 @@ Sync config from upstream repository class com.ctrip.framework.apollo.internals.
 
 查看 envoy 的 accesslog:
 
-![](1.jpg)
+![](apollo-on-istio-1.jpg)
 
 * `response_flags` 为 `NR`，表示找不到路由 (参考 envoy 官网解释: No route configured for a given request in addition to 404 response code, or no matching filter chain for a downstream connection)。
 * 请求使用的 `Host` 直接用的 `PodIP:Port`。

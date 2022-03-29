@@ -40,11 +40,13 @@
 - [应用未监听 0.0.0.0 导致连接异常](faq/listen-any.md)
 - [VirtualService 路由匹配顺序问题](faq/vs-match-order.md)
 - [headless service 相关问题](faq/headless-svc.md)
+- [GRPC 服务负载不均](faq/grpc-not-loadbalancing.md)
 
 # 故障排查
 
 - [排障案例](troubleshooting/cases/README.md)
   - [使用 apollo 的 java 应用启动报 404](troubleshooting/cases/apollo-on-istio.md)
+  - [无法访问不带 sidecar 的 Pod](troubleshooting/cases/cannot-connect-pod-without-sidecar.md)
 - [VirutualService 不生效](troubleshooting/virtualservice-not-working.md)
 - [Envoy 报错: gRPC config stream closed](troubleshooting/grpc-config-stream-closed.md)
 - [熔断不生效](troubleshooting/circuit-breaking-not-work.md)
